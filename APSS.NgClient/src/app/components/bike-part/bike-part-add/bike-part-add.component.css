@@ -1,0 +1,25 @@
+.detail-row {
+    display:grid;
+    width:100%;
+    grid-template-columns: 20% auto 50px;
+    gap:8px;
+    align-items:center;
+    align-content: center;
+    
+    
+    
+}
+.detail-row-1 {
+  display: grid;
+  grid-template-columns: 20% auto 80px;
+  gap: 8px;
+  align-items: center;
+  justify-items: self-end;
+}
+.image-row {
+    display: grid;
+    grid-template-columns: 50px auto 50px 50px;
+    gap:8px;
+    align-items:center;
+    align-content: center;
+}

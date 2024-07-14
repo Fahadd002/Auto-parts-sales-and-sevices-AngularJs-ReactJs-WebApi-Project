@@ -1,0 +1,51 @@
+<mat-sidenav-container class="sidenav-container">
+  <mat-sidenav
+    #drawer
+    class="sidenav"
+    fixedInViewport
+    [attr.role]="'navigation'"
+    [mode]="'over'"
+    [opened]="false"
+  >
+    <!-- <mat-toolbar color="primary">Menu</mat-toolbar> -->
+    <mat-toolbar color="primary">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+
+      <span>APSS</span>
+
+  
+    </mat-toolbar>
+
+    <ng-material-multilevel-menu  [configuration]="config" [items]="items">
+    </ng-material-multilevel-menu>
+
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <button
+        type="button"
+        aria-label="Toggle sidenav"
+        mat-icon-button
+        (click)="drawer.toggle()"
+      >
+        <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
+      </button>
+
+      <span>APSS</span>
+      <span class="filter"></span>
+      <a mat-button [routerLink]="'/home'"><mat-icon>home</mat-icon>Home</a>
+      <a mat-button [routerLink]="'/login'"><mat-icon>login</mat-icon>Login</a>
+  
+    </mat-toolbar>
+    <div class="container">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

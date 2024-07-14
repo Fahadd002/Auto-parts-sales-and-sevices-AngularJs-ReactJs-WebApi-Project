@@ -1,0 +1,34 @@
+<div class="view-container">
+    <mat-card class="medium-form-card-container mat-elevation-z9">
+        <mat-card class="form-card">
+            <mat-card-header>
+                <h2 mat-card-title>Edit common-Deatil</h2>
+            </mat-card-header>
+            <mat-card-content>
+                <form [formGroup]="editForm" (ngSubmit)="save()">
+                    <mat-form-field class="f-w fld">
+                        <mat-label>Common-Deatil</mat-label>
+                        <input  matInput formControlName="detailName" />
+                        <mat-error *ngIf="f['detailName'].hasError('required')">
+                            Common-Deatil is required
+                        </mat-error>
+                        <mat-error *ngIf="f['detailName'].hasError('maxlength')">
+                            Common-Deatil name can be 30 chars max.
+                        </mat-error>
+                    </mat-form-field>
+                    <div class="f-w fld right">
+                            <button [disabled]="editForm.invalid" mat-raised-button color="primary">Update</button>
+                    </div>
+                </form>
+                <mat-card-actions>
+                 <a mat-button [routerLink]="['/commonDetails']" color="primary">Back to list</a>
+                </mat-card-actions>
+            </mat-card-content>
+            
+        </mat-card>
+        
+    </mat-card>
+
+
+</div>
+

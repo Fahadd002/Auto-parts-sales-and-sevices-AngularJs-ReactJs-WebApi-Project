@@ -1,0 +1,26 @@
+<h2 mat-dialog-title>Service Details [{{data.customerName}}]</h2>
+<mat-dialog-content>
+    <mat-table [dataSource]="dataSource" matSort>
+        <ng-container matColumnDef="description">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Description</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{ element.description}}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="requestDate">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Request Date</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{ element.requestDate| date:'dd-MM-yyyy' }}</mat-cell>
+        </ng-container>
+        <ng-container matColumnDef="proposedServiceDate">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>ProposedService Date</mat-header-cell>
+            <mat-cell *matCellDef="let element">{{ element.proposedServiceDate | date:'dd-MM-yyyy'}}</mat-cell>
+        </ng-container>
+      <mat-header-row *matHeaderRowDef="columns"></mat-header-row>
+      <mat-row *matRowDef="let element; columns: columns"></mat-row>
+    </mat-table>
+</mat-dialog-content>
+<mat-dialog-actions class="end">
+    <button mat-button [mat-dialog-close]="true" cdkFocusInitial>Close</button>
+    
+  </mat-dialog-actions>
+
+  
+

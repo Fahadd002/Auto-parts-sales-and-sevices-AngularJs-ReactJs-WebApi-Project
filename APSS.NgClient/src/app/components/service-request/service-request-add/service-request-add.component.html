@@ -1,0 +1,99 @@
+<div class="view-container">
+    <mat-card class="medium-form-card-container mat-elevation-z9">
+      <mat-card-header>
+        <mat-card-title>Create new Service Rerquest</mat-card-title>
+        <mat-card-subtitle>Fill up the form</mat-card-subtitle>
+        <img src="../../../../assets/engine-svgrepo-com.svg" mat-card-avatar class="avatar" />
+        <span class="filler"></span>
+        
+      </mat-card-header>
+
+<mat-card class="form-card">
+    <!-- <mat-card-header>
+        <h2 mat-card-title>Create new Service Request</h2>
+    </mat-card-header> -->
+    <mat-card-content>
+        <form [formGroup]="createForm" (ngSubmit)="save()">
+            <mat-form-field class="f-w fld">
+                <mat-label>Customer name</mat-label>
+                <input  matInput formControlName="customerName" />
+                <mat-error *ngIf="f['customerName'].hasError('required')">
+                    Category name is required
+                </mat-error>
+                <mat-error *ngIf="f['customerName'].hasError('maxlength')">
+                    customer name can be 30 chars max.
+                </mat-error>
+            </mat-form-field>
+            <mat-form-field class="f-w fld">
+                <mat-label>Phone</mat-label>
+                <input  matInput formControlName="phone" />
+                <mat-error *ngIf="f['phone'].hasError('required')">
+                    Phone name is required
+                </mat-error>
+                <mat-error *ngIf="f['phone'].hasError('maxlength')">
+                    phone number can be 30 chars max.
+                </mat-error>
+            </mat-form-field>
+            <mat-form-field class="f-w fld">
+                <mat-label>Email-address</mat-label>
+                <input  matInput formControlName="email" />
+                <mat-error *ngIf="f['email'].hasError('required')">
+                    Email is required
+                </mat-error>
+                <mat-error *ngIf="f['email'].hasError('maxlength')">
+                    email can be 30 chars max.
+                </mat-error>
+            </mat-form-field>
+            <mat-form-field class="f-w" >
+                <mat-label>Service Types</mat-label>
+                <mat-select formControlName="serviceTypeId" >
+                    <mat-option *ngFor="let type of serviceType" [value]="type.serviceTypeId">
+                    {{type.serviceName}}
+                  </mat-option>
+                </mat-select>
+              </mat-form-field>
+              <div style="display: flex;justify-content: flex-end;">
+                <button type="button" mat-icon-button (click)="addDetail()" ><mat-icon>add</mat-icon></button>
+              </div>
+              <ng-container formArrayName="serviceDetails"> 
+                <ng-container *ngFor="let p of details.controls; let i = index">
+                    <div [formGroupName]="i" class="detail-row">
+                        <mat-form-field class="f-w">
+                            <mat-label>Description</mat-label>
+                            <input matInput
+                                   formControlName="description">
+                            <mat-error *ngIf="details.controls[i].get('description')?.hasError('required')">Description is <strong>required</strong></mat-error>
+                          </mat-form-field>
+                          <mat-form-field class="f-w">
+                            <mat-label>Request Date</mat-label>
+                            <input matInput type="date"
+                                   formControlName="requestDate">
+                            <mat-error *ngIf="details.controls[i].get('requestDate')?.hasError('required')">Request Date is <strong>required</strong></mat-error>
+                          </mat-form-field>
+                          <mat-form-field class="f-w">
+                            <mat-label>ProposedService Date</mat-label>
+                            <input matInput type="date"
+                                   formControlName="proposedServiceDate">
+                            <mat-error *ngIf="details.controls[i].get('proposedServiceDate')?.hasError('required')">ProposedService Date is <strong>required</strong></mat-error>
+                          </mat-form-field>
+                          <div class="f-w right" style="padding-bottom: 12px;">
+                            <button style="color: rgb(179, 29, 29);" type="button" mat-icon-button (click)="removeDetail(i)" ><mat-icon>delete</mat-icon></button>
+                          </div>
+        
+                    </div>
+                </ng-container>
+              </ng-container>
+            <div class="f-w fld">
+                    <button [disabled]="createForm.invalid"  mat-raised-button color="primary">Save</button>
+            </div>
+        </form>
+        <mat-card-actions>
+          <a mat-button [routerLink]="['/serviceRequest']" color="primary">Back to list</a>
+      </mat-card-actions>
+    </mat-card-content>
+    
+</mat-card>
+</mat-card>
+</div>
+
+

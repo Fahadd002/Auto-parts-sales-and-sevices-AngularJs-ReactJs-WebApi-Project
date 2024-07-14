@@ -1,0 +1,8 @@
+.detail-row {
+    display:grid;
+    width:100%;
+    grid-template-columns: 40% 40% 50px;
+    gap:8px;
+    align-items:center;
+    align-content: center; 
+}

@@ -1,0 +1,33 @@
+<div class="view-container">
+    <mat-card class="medium-form-card-container mat-elevation-z9">
+        <mat-card class="form-card">
+            <mat-card-header>
+                <h2 mat-card-title>Create new Vehicle-Type</h2>
+            </mat-card-header>
+            <mat-card-content>
+                <form [formGroup]="createForm" (ngSubmit)="save()">
+                    <mat-form-field class="f-w fld">
+                        <mat-label>Vehicle-Type</mat-label>
+                        <input  matInput formControlName="vehicleTypeName" />
+                        <mat-error *ngIf="f['vehicleTypeName'].hasError('required')">
+                            Vehicle-Type is required
+                        </mat-error>
+                        <mat-error *ngIf="f['vehicleTypeName'].hasError('maxlength')">
+                            Vehicle-Type name can be 30 chars max.
+                        </mat-error>
+                    </mat-form-field>
+                    <div class="f-w fld">
+                            <button [disabled]="createForm.invalid" mat-raised-button color="primary">Save</button>
+                    </div>
+                </form>
+                <mat-card-actions>
+                 <a mat-button [routerLink]="['/vehiclesTypes']" color="primary">Back to list</a>
+                </mat-card-actions>
+            </mat-card-content>
+            
+        </mat-card>
+        
+    </mat-card>
+
+
+</div>

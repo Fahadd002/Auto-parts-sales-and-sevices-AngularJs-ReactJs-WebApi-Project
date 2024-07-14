@@ -1,0 +1,1349 @@
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.exe
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.deps.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.runtimeconfig.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Humanizer.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.AssemblyReference.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfoInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfo.cs
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.CoreCompileInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Api.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Api.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Api.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\scopedcss\bundle\APSS.Api.styles.css
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.CopyComplete
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\refint\APSS.Api.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.genruntimeconfig.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\ref\APSS.Api.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.staticwebassets.runtime.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Common.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.staticwebassets.runtime.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.exe
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.deps.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.runtimeconfig.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Humanizer.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Common.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.AssemblyReference.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfoInputs.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfo.cs
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.CoreCompileInputs.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.sourcelink.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Api.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Api.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Api.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\scopedcss\bundle\APSS.Api.styles.css
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.Up2Date
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\refint\APSS.Api.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.genruntimeconfig.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\ref\APSS.Api.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.staticwebassets.runtime.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.exe
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.deps.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.runtimeconfig.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Humanizer.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.JSInterop.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Common.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.AssemblyReference.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfoInputs.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfo.cs
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.CoreCompileInputs.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.sourcelink.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Api.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Api.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Api.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\scopedcss\bundle\APSS.Api.styles.css
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.Up2Date
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\refint\APSS.Api.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.genruntimeconfig.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\ref\APSS.Api.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.staticwebassets.runtime.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.exe
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.deps.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.runtimeconfig.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Humanizer.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Common.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.AssemblyReference.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfoInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfo.cs
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.CoreCompileInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.sourcelink.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Api.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Api.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Api.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\scopedcss\bundle\APSS.Api.styles.css
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.Up2Date
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\refint\APSS.Api.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.genruntimeconfig.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\ref\APSS.Api.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.pdb
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\appsettings.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.staticwebassets.runtime.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.exe
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.deps.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.runtimeconfig.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Api.pdb
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Humanizer.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.JSInterop.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Common.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\bin\Debug\net8.0\APSS.Lib.pdb
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.AssemblyReference.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfoInputs.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.AssemblyInfo.cs
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.CoreCompileInputs.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.sourcelink.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Api.props
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Api.props
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Api.props
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\scopedcss\bundle\APSS.Api.styles.css
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.csproj.Up2Date
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\refint\APSS.Api.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.pdb
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\APSS.Api.genruntimeconfig.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Api\obj\Debug\net8.0\ref\APSS.Api.dll

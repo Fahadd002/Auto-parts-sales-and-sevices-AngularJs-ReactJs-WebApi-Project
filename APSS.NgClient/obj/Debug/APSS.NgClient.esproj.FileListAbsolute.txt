@@ -1,0 +1,3 @@
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.NgClient\obj\Debug\APSS.NgClient.esproj.CoreCompileInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.NgClient\obj\Debug\APSS.NgClient.esproj.CoreCompileInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.NgClient\obj\Debug\APSS.NgClient.esproj.CoreCompileInputs.cache

@@ -1,0 +1,64 @@
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.deps.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfoInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfo.cs
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.CoreCompileInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\refint\APSS.Lib.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\ref\APSS.Lib.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.deps.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.AssemblyReference.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfoInputs.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfo.cs
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.CoreCompileInputs.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.sourcelink.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\refint\APSS.Lib.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\ref\APSS.Lib.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.deps.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.AssemblyReference.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.GeneratedMSBuildEditorConfig.editorconfig
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfoInputs.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfo.cs
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.CoreCompileInputs.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.sourcelink.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\refint\APSS.Lib.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\ref\APSS.Lib.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.deps.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.AssemblyReference.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfoInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfo.cs
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.CoreCompileInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.sourcelink.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\refint\APSS.Lib.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\ref\APSS.Lib.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.AssemblyReference.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.deps.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\bin\Debug\net8.0\APSS.Lib.pdb
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.AssemblyReference.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfoInputs.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.AssemblyInfo.cs
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.csproj.CoreCompileInputs.cache
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.sourcelink.json
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\refint\APSS.Lib.dll
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\APSS.Lib.pdb
+F:\FinalProjectIDB\AutoPartsSalesAndService\APSS.Lib\obj\Debug\net8.0\ref\APSS.Lib.dll

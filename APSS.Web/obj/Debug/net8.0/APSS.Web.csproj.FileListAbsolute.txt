@@ -1,0 +1,135 @@
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.exe
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.deps.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.runtimeconfig.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfoInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfo.cs
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.CoreCompileInputs.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Web.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Web.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Web.props
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\scopedcss\bundle\APSS.Web.styles.css
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\refint\APSS.Web.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.genruntimeconfig.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\ref\APSS.Web.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.exe
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.deps.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.runtimeconfig.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfoInputs.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfo.cs
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.CoreCompileInputs.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.sourcelink.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Web.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Web.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Web.props
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\scopedcss\bundle\APSS.Web.styles.css
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\refint\APSS.Web.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.genruntimeconfig.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\ref\APSS.Web.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\libman.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.staticwebassets.runtime.json
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.AssemblyReference.cache
+D:\R56\Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.Up2Date
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.Development.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\libman.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.staticwebassets.runtime.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.exe
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.deps.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.runtimeconfig.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.AssemblyReference.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfoInputs.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfo.cs
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.CoreCompileInputs.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.sourcelink.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.build.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.development.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Web.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Web.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Web.props
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\scopedcss\bundle\APSS.Web.styles.css
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.Up2Date
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\refint\APSS.Web.dll
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.pdb
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.genruntimeconfig.cache
+F:\AutoPartsSalesAndService\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\ref\APSS.Web.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\appsettings.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\libman.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.staticwebassets.runtime.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.exe
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.deps.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.runtimeconfig.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.AssemblyReference.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfoInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.AssemblyInfo.cs
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.CoreCompileInputs.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.sourcelink.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.APSS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.APSS.Web.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APSS.Web.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APSS.Web.props
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\scopedcss\bundle\APSS.Web.styles.css
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.Up2Date
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\refint\APSS.Web.dll
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.pdb
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.genruntimeconfig.cache
+D:\R56\Project\New\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\ref\APSS.Web.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\libman.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Web.staticwebassets.runtime.json
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.dll
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\bin\Debug\net8.0\APSS.Lib.pdb
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.AssemblyReference.cache
+D:\Al-murad\Final Project\AutoPartsSalesAndService\APSS.Web\obj\Debug\net8.0\APSS.Web.csproj.CopyComplete
